@@ -1,0 +1,1 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\02.ArraySelectionSort\bin\Debug\02.ArraySelectionSort.exe.config
