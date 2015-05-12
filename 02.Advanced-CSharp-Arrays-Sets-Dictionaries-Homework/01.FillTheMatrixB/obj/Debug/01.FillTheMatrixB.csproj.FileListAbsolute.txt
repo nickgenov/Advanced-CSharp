@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\bin\Debug\01.FillTheMatrixB.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\bin\Debug\01.FillTheMatrixB.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\bin\Debug\01.FillTheMatrixB.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\obj\Debug\01.FillTheMatrixB.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\obj\Debug\01.FillTheMatrixB.pdb
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\bin\Debug\01.FillTheMatrixB.exe.config
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\obj\Debug\01.FillTheMatrixB.exe
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\01.FillTheMatrixB\obj\Debug\01.FillTheMatrixB.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrixB\bin\Debug\01.FillTheMatrixB.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrixB\obj\Debug\01.FillTheMatrixB.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrixB\obj\Debug\01.FillTheMatrixB.pdb

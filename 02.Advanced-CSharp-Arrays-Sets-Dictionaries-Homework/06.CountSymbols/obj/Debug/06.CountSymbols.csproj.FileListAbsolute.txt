@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

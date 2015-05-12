@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.pdb
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\07.Phonebook\obj\Debug\07.Phonebook.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\07.Phonebook\bin\Debug\07.Phonebook.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\07.Phonebook\obj\Debug\07.Phonebook.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\07.Phonebook\obj\Debug\07.Phonebook.pdb

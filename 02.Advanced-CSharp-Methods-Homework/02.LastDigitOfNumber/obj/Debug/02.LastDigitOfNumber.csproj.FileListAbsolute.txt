@@ -1,0 +1,11 @@
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.csprojResolveAssemblyReference.cache

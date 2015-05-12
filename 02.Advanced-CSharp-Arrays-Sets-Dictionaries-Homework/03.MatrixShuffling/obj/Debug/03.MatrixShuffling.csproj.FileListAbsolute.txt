@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\03.MatrixShuffling\bin\Debug\03.MatrixShuffling.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\03.MatrixShuffling\obj\Debug\03.MatrixShuffling.pdb

@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\03.HomeworkArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidimensional Arrays, Dictionaries, Sets\03.HomeworkArraysSetsDictionaries\08.NightLife\obj\Debug\08.NightLife.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.pdb

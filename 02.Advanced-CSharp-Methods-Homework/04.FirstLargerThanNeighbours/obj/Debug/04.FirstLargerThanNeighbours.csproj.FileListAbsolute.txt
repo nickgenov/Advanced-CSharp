@@ -1,0 +1,5 @@
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb
