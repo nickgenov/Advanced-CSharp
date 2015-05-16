@@ -3,3 +3,8 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\bin\Debug\13.ActivityTracker.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\bin\Debug\13.ActivityTracker.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\obj\Debug\13.ActivityTracker.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\13.ActivityTracker\obj\Debug\13.ActivityTracker.pdb

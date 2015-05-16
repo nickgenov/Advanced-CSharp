@@ -10,3 +10,9 @@ C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidi
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb

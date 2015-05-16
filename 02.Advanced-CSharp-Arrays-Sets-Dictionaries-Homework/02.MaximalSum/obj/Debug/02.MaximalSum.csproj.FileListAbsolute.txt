@@ -10,3 +10,9 @@ C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidi
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\bin\Debug\02.MaximalSum.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\02.MaximalSum\obj\Debug\02.MaximalSum.pdb

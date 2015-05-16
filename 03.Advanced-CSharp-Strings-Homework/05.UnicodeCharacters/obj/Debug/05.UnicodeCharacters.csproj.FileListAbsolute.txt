@@ -3,3 +3,8 @@ C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homewor
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

@@ -9,3 +9,9 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\bin\Debug\02.LastDigitOfNumber.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\02.LastDigitOfNumber\obj\Debug\02.LastDigitOfNumber.csprojResolveAssemblyReference.cache

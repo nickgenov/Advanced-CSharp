@@ -1,5 +1,0 @@
-C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\6.SubsetSums\bin\Debug\6.SubsetSums.exe.config
-C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\6.SubsetSums\bin\Debug\6.SubsetSums.exe
-C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\6.SubsetSums\bin\Debug\6.SubsetSums.pdb
-C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\6.SubsetSums\obj\Debug\6.SubsetSums.exe
-C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\6.SubsetSums\obj\Debug\6.SubsetSums.pdb

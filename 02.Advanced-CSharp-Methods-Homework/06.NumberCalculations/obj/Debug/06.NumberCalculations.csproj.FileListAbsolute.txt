@@ -3,3 +3,8 @@ c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\06.NumberCalc
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

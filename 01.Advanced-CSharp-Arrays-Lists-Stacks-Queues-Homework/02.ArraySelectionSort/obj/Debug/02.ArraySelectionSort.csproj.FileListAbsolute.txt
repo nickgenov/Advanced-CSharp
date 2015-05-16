@@ -1,1 +1,7 @@
 C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\02.ArraySelectionSort\bin\Debug\02.ArraySelectionSort.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\02.ArraySelectionSort\bin\Debug\02.ArraySelectionSort.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\02.ArraySelectionSort\bin\Debug\02.ArraySelectionSort.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\02.ArraySelectionSort\bin\Debug\02.ArraySelectionSort.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\02.ArraySelectionSort\obj\Debug\02.ArraySelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\02.ArraySelectionSort\obj\Debug\02.ArraySelectionSort.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\02.ArraySelectionSort\obj\Debug\02.ArraySelectionSort.pdb

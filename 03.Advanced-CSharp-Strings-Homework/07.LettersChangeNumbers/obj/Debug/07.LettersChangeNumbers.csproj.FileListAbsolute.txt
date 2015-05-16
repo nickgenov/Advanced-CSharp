@@ -4,3 +4,9 @@ C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homewor
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\bin\Debug\07.LettersChangeNumbers.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\07.LettersChangeNumbers\obj\Debug\07.LettersChangeNumbers.pdb

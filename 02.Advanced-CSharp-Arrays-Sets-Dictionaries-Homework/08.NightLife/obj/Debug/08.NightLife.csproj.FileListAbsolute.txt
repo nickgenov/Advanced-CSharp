@@ -10,3 +10,9 @@ C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidi
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\bin\Debug\08.NightLife.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\08.NightLife\obj\Debug\08.NightLife.pdb

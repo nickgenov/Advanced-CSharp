@@ -3,3 +3,9 @@ c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\05.ReverseNum
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

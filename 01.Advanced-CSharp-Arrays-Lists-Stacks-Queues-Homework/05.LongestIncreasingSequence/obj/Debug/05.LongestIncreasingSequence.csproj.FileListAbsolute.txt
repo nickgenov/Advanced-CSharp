@@ -3,3 +3,8 @@ C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacks
 C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
 C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
 C:\Users\Nick\Documents\Visual Studio 2013\Projects\01.HomeworkArraysListsStacksQueues\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

@@ -12,3 +12,9 @@ C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidi
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\bin\Debug\01.FillTheMatrix.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\01.FillTheMatrix\obj\Debug\01.FillTheMatrix.csprojResolveAssemblyReference.cache

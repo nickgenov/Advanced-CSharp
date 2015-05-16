@@ -3,3 +3,9 @@ C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homewor
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.pdb
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.exe
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\bin\Debug\03.CountSubstringOccurrences.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\03.CountSubstringOccurrences\obj\Debug\03.CountSubstringOccurrences.pdb

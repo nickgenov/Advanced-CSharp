@@ -4,3 +4,9 @@ C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homewor
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\06.Palindromes\obj\Debug\06.Palindromes.exe
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\06.Palindromes\obj\Debug\06.Palindromes.pdb
 C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\06.Palindromes\bin\Debug\06.Palindromes.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\06.Palindromes\obj\Debug\06.Palindromes.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\03.Advanced-CSharp-Strings-Homework\06.Palindromes\obj\Debug\06.Palindromes.pdb

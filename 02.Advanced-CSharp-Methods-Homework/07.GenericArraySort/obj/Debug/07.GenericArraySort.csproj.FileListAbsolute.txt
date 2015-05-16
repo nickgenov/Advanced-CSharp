@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\07.GenericArraySort\bin\Debug\07.GenericArraySort.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\07.GenericArraySort\obj\Debug\07.GenericArraySort.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\07.GenericArraySort\obj\Debug\07.GenericArraySort.pdb

@@ -9,3 +9,8 @@ C:\Users\Nick\Desktop\Advanced C#\EvaluatedHomeworks\Homework-nick.genov-Multidi
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Arrays-Sets-Dictionaries-Homework\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

@@ -3,3 +3,9 @@ c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\03.LargerThan
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
 c:\users\nikolaig\documents\visual studio 2013\Projects\HW_Methods\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
+C:\Users\Nick\Desktop\test\Advanced-CSharp\02.Advanced-CSharp-Methods-Homework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
