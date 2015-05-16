@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\02.ReplaceTag\bin\Debug\02.ReplaceTag.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\02.ReplaceTag\bin\Debug\02.ReplaceTag.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\02.ReplaceTag\obj\Debug\02.ReplaceTag.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\02.ReplaceTag\obj\Debug\02.ReplaceTag.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\02.ReplaceTag\obj\Debug\02.ReplaceTag.pdb

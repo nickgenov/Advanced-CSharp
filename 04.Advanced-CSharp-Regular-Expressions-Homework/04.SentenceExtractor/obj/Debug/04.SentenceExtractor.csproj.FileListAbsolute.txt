@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

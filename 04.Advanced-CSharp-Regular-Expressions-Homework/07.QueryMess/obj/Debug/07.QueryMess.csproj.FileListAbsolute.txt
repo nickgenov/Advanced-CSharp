@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\07.QueryMess\bin\Debug\07.QueryMess.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\07.QueryMess\bin\Debug\07.QueryMess.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\07.QueryMess\obj\Debug\07.QueryMess.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\07.QueryMess\bin\Debug\07.QueryMess.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\07.QueryMess\bin\Debug\07.QueryMess.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\07.QueryMess\bin\Debug\07.QueryMess.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\07.QueryMess\obj\Debug\07.QueryMess.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\07.QueryMess\obj\Debug\07.QueryMess.pdb

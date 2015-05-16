@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\06.ExtractHyperlinks\bin\Debug\06.ExtractHyperlinks.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\06.ExtractHyperlinks\obj\Debug\06.ExtractHyperlinks.pdb

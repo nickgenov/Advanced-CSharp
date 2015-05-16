@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+C:\Users\Nick\Documents\Visual Studio 2013\Projects\04.Advanced-CSharp-Regular-Expressions\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\03.ExtractEmails\bin\Debug\03.ExtractEmails.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\03.ExtractEmails\bin\Debug\03.ExtractEmails.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\03.ExtractEmails\obj\Debug\03.ExtractEmails.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\03.ExtractEmails\obj\Debug\03.ExtractEmails.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\03.ExtractEmails\obj\Debug\03.ExtractEmails.pdb
