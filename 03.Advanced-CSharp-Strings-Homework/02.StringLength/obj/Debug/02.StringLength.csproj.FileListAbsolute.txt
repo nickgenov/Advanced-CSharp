@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\02.StringLength\bin\Debug\02.StringLength.exe.config
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\02.StringLength\bin\Debug\02.StringLength.exe
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\02.StringLength\bin\Debug\02.StringLength.pdb
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\02.StringLength\obj\Debug\02.StringLength.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\02.StringLength\obj\Debug\02.StringLength.exe
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\02.StringLength\obj\Debug\02.StringLength.pdb

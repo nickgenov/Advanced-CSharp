@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\04.TextFilter\bin\Debug\04.TextFilter.exe
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\04.TextFilter\bin\Debug\04.TextFilter.pdb
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\04.TextFilter\obj\Debug\04.TextFilter.exe
+C:\Users\Nick\Desktop\Advanced C#\MyHomeworks\03.Advanced-CSharp-Strings-Homework\04.TextFilter\obj\Debug\04.TextFilter.pdb
