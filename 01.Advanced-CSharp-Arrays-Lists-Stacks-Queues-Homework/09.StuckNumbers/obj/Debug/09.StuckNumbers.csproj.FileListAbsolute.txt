@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\bin\Debug\09.StuckNumbers.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\09.StuckNumbers\obj\Debug\09.StuckNumbers.pdb
