@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\08.LegoBlocks\bin\Debug\08.LegoBlocks.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\08.LegoBlocks\bin\Debug\08.LegoBlocks.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\08.LegoBlocks\obj\Debug\08.LegoBlocks.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\08.LegoBlocks\obj\Debug\08.LegoBlocks.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\08.LegoBlocks\obj\Debug\08.LegoBlocks.csprojResolveAssemblyReference.cache

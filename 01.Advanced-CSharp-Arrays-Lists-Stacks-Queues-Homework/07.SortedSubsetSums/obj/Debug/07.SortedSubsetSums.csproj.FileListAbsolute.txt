@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\bin\Debug\07.SortedSubsetSums.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\01.Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\07.SortedSubsetSums\obj\Debug\07.SortedSubsetSums.pdb
