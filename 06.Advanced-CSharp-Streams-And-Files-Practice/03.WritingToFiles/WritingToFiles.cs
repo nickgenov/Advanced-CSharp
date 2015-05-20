@@ -10,28 +10,20 @@ class WritingToFiles
 {
     static void Main()
     {
-        FileStream stream = new FileStream("text.txt", FileMode.Open);
+        FileStream inputStream = new FileStream("sourceFile.txt", FileMode.Open);
+        FileStream outputStream = new FileStream("destinationFile.txt", FileMode.Create);
 
-        byte[] writeBuffer = { 70 };
-
-        for (int i = 0; i < 2; i++)
-        {
-            stream.Write(writeBuffer, 0, writeBuffer.Length);
-        }
-
-        byte[] readBuffer = new byte[4096];
-
+        byte[] buffer = new byte[4096];
         while (true)
         {
-            int readBytes = stream.Read(readBuffer, 0, readBuffer.Length);
+            int readBytes = inputStream.Read(buffer, 0, buffer.Length);
             if (readBytes == 0)
             {
                 break;
             }
-            foreach (var readByte in readBuffer)
-            {
-                Console.Write((char)readByte);
-            }
+            outputStream.Write(buffer, 0, readBytes);
         }
+        inputStream.Close();
+        outputStream.Close();
     }
 }
