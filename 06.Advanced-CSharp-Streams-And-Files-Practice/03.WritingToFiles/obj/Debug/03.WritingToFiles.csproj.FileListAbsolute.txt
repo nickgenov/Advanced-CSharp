@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\03.WritingToFiles\bin\Debug\03.WritingToFiles.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\03.WritingToFiles\bin\Debug\03.WritingToFiles.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\03.WritingToFiles\bin\Debug\03.WritingToFiles.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\03.WritingToFiles\obj\Debug\03.WritingToFiles.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\03.WritingToFiles\obj\Debug\03.WritingToFiles.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\03.WritingToFiles\obj\Debug\03.WritingToFiles.pdb

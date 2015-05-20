@@ -22,5 +22,6 @@ class ReadingFromFiles
             }
             Console.WriteLine((char)readByte);
         }
+        stream.Close();
     }
 }
