@@ -1,0 +1,5 @@
+For years now, AMD has taken on the responsibility of defining new types of memory to be used in graphics cards, standards that have eventually come to be used by the entire industry. Typically, being first out of the gate with a new graphics-oriented memory technology has given AMD a competitive advantage in that first generation of products. For instance, the introduction of GDDR5 allowed the Radeon HD 4870 to capture the performance crown back in the day.
+
+Trouble is, GDDR5 is still the standard memory type for graphics processors to this day, seven years after the 4870's introduction. Graphics memory has gotten faster over time, of course, but it hasn't fundamentally changed for a long while.
+
+GDDR5's reign is about to end, however, thanks to a new type of memory known by the ridiculously generic name of high-bandwidth memory (HBM).  Although we've been waiting quite a while for a change, HBM looks a be a fairly monumental shift as these things go, thanks to a combination of new fabrication methods and smart engineering. The first deployment of HBM is likely to be alongside Fiji, AMD's upcoming high-end GPU, expected to be called the Radeon R9 390X.

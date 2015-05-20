@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\02.BufferredReadingFromFiles\bin\Debug\02.BufferredReadingFromFiles.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\02.BufferredReadingFromFiles\bin\Debug\02.BufferredReadingFromFiles.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\02.BufferredReadingFromFiles\bin\Debug\02.BufferredReadingFromFiles.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\02.BufferredReadingFromFiles\obj\Debug\02.BufferredReadingFromFiles.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\02.BufferredReadingFromFiles\obj\Debug\02.BufferredReadingFromFiles.pdb
