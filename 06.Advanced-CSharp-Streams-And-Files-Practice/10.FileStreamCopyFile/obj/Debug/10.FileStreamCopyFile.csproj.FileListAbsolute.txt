@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\10.FileStreamCopyFile\bin\Debug\10.FileStreamCopyFile.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\10.FileStreamCopyFile\bin\Debug\10.FileStreamCopyFile.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\10.FileStreamCopyFile\bin\Debug\10.FileStreamCopyFile.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\10.FileStreamCopyFile\obj\Debug\10.FileStreamCopyFile.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\10.FileStreamCopyFile\obj\Debug\10.FileStreamCopyFile.pdb
