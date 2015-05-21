@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\05.CloseStreamsTryFinally\bin\Debug\05.CloseStreamsTryFinally.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\05.CloseStreamsTryFinally\bin\Debug\05.CloseStreamsTryFinally.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\05.CloseStreamsTryFinally\bin\Debug\05.CloseStreamsTryFinally.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\05.CloseStreamsTryFinally\obj\Debug\05.CloseStreamsTryFinally.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\05.CloseStreamsTryFinally\obj\Debug\05.CloseStreamsTryFinally.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\05.CloseStreamsTryFinally\obj\Debug\05.CloseStreamsTryFinally.pdb

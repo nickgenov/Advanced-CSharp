@@ -28,6 +28,7 @@ class BufferredReadingFromFiles
                 Console.Write((char)storedByte);
             }
         }
+        //.Close() calls .Flush() 
         stream.Close();
     }
 }

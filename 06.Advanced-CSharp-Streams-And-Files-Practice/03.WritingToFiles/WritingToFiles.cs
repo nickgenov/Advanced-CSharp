@@ -23,6 +23,7 @@ class WritingToFiles
             }
             outputStream.Write(buffer, 0, readBytes);
         }
+        //.Close() calls .Flush() 
         inputStream.Close();
         outputStream.Close();
     }

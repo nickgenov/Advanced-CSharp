@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\06.Flush\bin\Debug\06.Flush.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\06.Flush\bin\Debug\06.Flush.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\06.Flush\bin\Debug\06.Flush.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\06.Flush\obj\Debug\06.Flush.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\06.Flush\obj\Debug\06.Flush.pdb

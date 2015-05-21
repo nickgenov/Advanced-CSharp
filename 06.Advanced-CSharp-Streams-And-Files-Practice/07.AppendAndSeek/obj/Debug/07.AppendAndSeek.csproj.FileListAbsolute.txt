@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\07.AppendAndSeek\bin\Debug\07.AppendAndSeek.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\07.AppendAndSeek\bin\Debug\07.AppendAndSeek.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\07.AppendAndSeek\bin\Debug\07.AppendAndSeek.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\07.AppendAndSeek\obj\Debug\07.AppendAndSeek.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\07.AppendAndSeek\obj\Debug\07.AppendAndSeek.pdb
