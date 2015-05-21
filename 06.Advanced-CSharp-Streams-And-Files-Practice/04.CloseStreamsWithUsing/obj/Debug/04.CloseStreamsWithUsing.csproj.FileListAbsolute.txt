@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\04.CloseStreamsWithUsing\bin\Debug\04.CloseStreamsWithUsing.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\04.CloseStreamsWithUsing\bin\Debug\04.CloseStreamsWithUsing.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\04.CloseStreamsWithUsing\bin\Debug\04.CloseStreamsWithUsing.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\04.CloseStreamsWithUsing\obj\Debug\04.CloseStreamsWithUsing.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\04.CloseStreamsWithUsing\obj\Debug\04.CloseStreamsWithUsing.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\04.CloseStreamsWithUsing\obj\Debug\04.CloseStreamsWithUsing.pdb
