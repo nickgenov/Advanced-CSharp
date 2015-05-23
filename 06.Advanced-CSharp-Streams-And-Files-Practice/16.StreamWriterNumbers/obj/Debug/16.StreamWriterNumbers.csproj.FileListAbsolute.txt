@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\16.StreamWriterNumbers\bin\Debug\16.StreamWriterNumbers.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\16.StreamWriterNumbers\bin\Debug\16.StreamWriterNumbers.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\16.StreamWriterNumbers\bin\Debug\16.StreamWriterNumbers.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\16.StreamWriterNumbers\obj\Debug\16.StreamWriterNumbers.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\16.StreamWriterNumbers\obj\Debug\16.StreamWriterNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\17.StopWatchMeasurements\bin\Debug\17.StopWatchMeasurements.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\17.StopWatchMeasurements\bin\Debug\17.StopWatchMeasurements.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\17.StopWatchMeasurements\bin\Debug\17.StopWatchMeasurements.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\17.StopWatchMeasurements\obj\Debug\17.StopWatchMeasurements.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\17.StopWatchMeasurements\obj\Debug\17.StopWatchMeasurements.pdb
