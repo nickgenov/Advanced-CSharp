@@ -1,0 +1,34 @@
+Line:   1: using System;
+Line:   2: using System.Collections.Generic;
+Line:   3: using System.Linq;
+Line:   4: using System.Text;
+Line:   5: using System.Threading.Tasks;
+Line:   6: using System.IO;
+Line:   7: 
+Line:   8: class StreamWriterExample
+Line:   9: {
+Line:  10:     static void Main()
+Line:  11:     {
+Line:  12:         StreamReader reader = new StreamReader("../../StreamWriterExample.cs");
+Line:  13:         StreamWriter writer = new StreamWriter("file.txt");
+Line:  14: 
+Line:  15:         using (reader)
+Line:  16:         {
+Line:  17:             using (writer)
+Line:  18:             {
+Line:  19:                 int lineCount = 0;
+Line:  20:                 while (true)
+Line:  21:                 {
+Line:  22:                     string line = reader.ReadLine();
+Line:  23:                     if (line == null)
+Line:  24:                     {
+Line:  25:                         break;
+Line:  26:                     }
+Line:  27: 
+Line:  28:                     lineCount++;
+Line:  29:                     writer.WriteLine("Line: {0, 3}: {1}", lineCount, line);
+Line:  30:                 }
+Line:  31:             }
+Line:  32:         }
+Line:  33:     }
+Line:  34: }
