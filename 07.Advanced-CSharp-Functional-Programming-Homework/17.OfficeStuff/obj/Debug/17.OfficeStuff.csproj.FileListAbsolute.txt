@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\17.OfficeStuff\bin\Debug\17.OfficeStuff.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\17.OfficeStuff\bin\Debug\17.OfficeStuff.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\17.OfficeStuff\bin\Debug\17.OfficeStuff.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\17.OfficeStuff\obj\Debug\17.OfficeStuff.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\17.OfficeStuff\obj\Debug\17.OfficeStuff.pdb

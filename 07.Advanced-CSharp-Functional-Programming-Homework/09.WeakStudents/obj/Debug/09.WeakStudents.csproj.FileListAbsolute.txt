@@ -3,3 +3,4 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\09.WeakStudents\bin\Debug\09.WeakStudents.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\09.WeakStudents\obj\Debug\09.WeakStudents.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\09.WeakStudents\obj\Debug\09.WeakStudents.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\09.WeakStudents\obj\Debug\09.WeakStudents.csprojResolveAssemblyReference.cache

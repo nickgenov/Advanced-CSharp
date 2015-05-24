@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\11.StudentsByGroups\bin\Debug\11.StudentsByGroups.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\11.StudentsByGroups\bin\Debug\11.StudentsByGroups.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\11.StudentsByGroups\bin\Debug\11.StudentsByGroups.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\11.StudentsByGroups\obj\Debug\11.StudentsByGroups.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\11.StudentsByGroups\obj\Debug\11.StudentsByGroups.pdb
