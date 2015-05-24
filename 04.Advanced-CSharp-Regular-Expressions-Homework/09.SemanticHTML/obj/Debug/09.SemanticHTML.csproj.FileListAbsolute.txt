@@ -8,3 +8,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\09.SemanticHTML\bin\Debug\09.SemanticHTML.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\09.SemanticHTML\obj\Debug\09.SemanticHTML.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\09.SemanticHTML\obj\Debug\09.SemanticHTML.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\09.SemanticHTML\bin\Debug\09.SemanticHTML.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\09.SemanticHTML\obj\Debug\09.SemanticHTML.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\09.SemanticHTML\obj\Debug\09.SemanticHTML.pdb

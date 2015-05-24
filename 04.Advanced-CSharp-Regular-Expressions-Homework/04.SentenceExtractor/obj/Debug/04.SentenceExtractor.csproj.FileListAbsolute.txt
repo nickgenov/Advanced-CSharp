@@ -9,3 +9,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

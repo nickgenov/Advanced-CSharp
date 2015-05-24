@@ -10,3 +10,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\01.SeriesOfLetters\bin\Debug\01.SeriesOfLetters.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\01.SeriesOfLetters\obj\Debug\01.SeriesOfLetters.pdb

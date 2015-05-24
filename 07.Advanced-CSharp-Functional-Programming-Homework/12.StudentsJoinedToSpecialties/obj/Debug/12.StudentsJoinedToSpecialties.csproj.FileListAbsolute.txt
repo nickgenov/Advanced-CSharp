@@ -3,3 +3,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\12.StudentsJoinedToSpecialties\bin\Debug\12.StudentsJoinedToSpecialties.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\12.StudentsJoinedToSpecialties\bin\Debug\12.StudentsJoinedToSpecialties.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\12.StudentsJoinedToSpecialties\obj\Debug\12.StudentsJoinedToSpecialties.pdb

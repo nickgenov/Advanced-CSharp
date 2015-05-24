@@ -3,3 +3,9 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\bin\Debug\15.UppercaseWords.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\obj\Debug\15.UppercaseWords.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\obj\Debug\15.UppercaseWords.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\bin\Debug\15.UppercaseWords.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\obj\Debug\15.UppercaseWords.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\obj\Debug\15.UppercaseWords.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\bin\Debug\15.UppercaseWords.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\bin\Debug\15.UppercaseWords.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\15.UppercaseWords\obj\Debug\15.UppercaseWords.csprojResolveAssemblyReference.cache

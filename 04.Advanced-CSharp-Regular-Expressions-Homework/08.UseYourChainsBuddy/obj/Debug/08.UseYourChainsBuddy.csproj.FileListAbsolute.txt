@@ -8,3 +8,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\08.UseYourChainsBuddy\bin\Debug\08.UseYourChainsBuddy.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\08.UseYourChainsBuddy\bin\Debug\08.UseYourChainsBuddy.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\04.Advanced-CSharp-Regular-Expressions-Homework\08.UseYourChainsBuddy\obj\Debug\08.UseYourChainsBuddy.pdb
