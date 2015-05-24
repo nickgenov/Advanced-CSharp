@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\07.FilterStudentsByPhone\bin\Debug\07.FilterStudentsByPhone.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\07.FilterStudentsByPhone\bin\Debug\07.FilterStudentsByPhone.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\07.FilterStudentsByPhone\bin\Debug\07.FilterStudentsByPhone.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\07.FilterStudentsByPhone\obj\Debug\07.FilterStudentsByPhone.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\07.FilterStudentsByPhone\obj\Debug\07.FilterStudentsByPhone.pdb

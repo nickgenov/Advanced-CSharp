@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\01.ClassStudent\bin\Debug\01.ClassStudent.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\01.ClassStudent\bin\Debug\01.ClassStudent.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\01.ClassStudent\bin\Debug\01.ClassStudent.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\01.ClassStudent\obj\Debug\01.ClassStudent.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\01.ClassStudent\obj\Debug\01.ClassStudent.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\01.ClassStudent\obj\Debug\01.ClassStudent.pdb
