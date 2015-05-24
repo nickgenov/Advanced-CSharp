@@ -3,4 +3,7 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLambdaExpression\bin\Debug\05.SortStudentsLambdaExpression.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLambdaExpression\obj\Debug\05.SortStudentsLambdaExpression.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLambdaExpression\obj\Debug\05.SortStudentsLambdaExpression.pdb
+<<<<<<< HEAD
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLambdaExpression\obj\Debug\05.SortStudentsLambdaExpression.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> ad31ed7cfd3740bca15c6b08d6e8d86ccad6b1f6
