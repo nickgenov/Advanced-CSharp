@@ -3,3 +3,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\01.ReadingFromFiles\bin\Debug\01.ReadingFromFiles.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\01.ReadingFromFiles\obj\Debug\01.ReadingFromFiles.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\01.ReadingFromFiles\obj\Debug\01.ReadingFromFiles.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\01.ReadingFromFiles\bin\Debug\01.ReadingFromFiles.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\01.ReadingFromFiles\obj\Debug\01.ReadingFromFiles.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\01.ReadingFromFiles\obj\Debug\01.ReadingFromFiles.pdb

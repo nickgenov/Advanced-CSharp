@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\05.SlicingFileInteractive\bin\Debug\05.SlicingFileInteractive.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\05.SlicingFileInteractive\bin\Debug\05.SlicingFileInteractive.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\05.SlicingFileInteractive\bin\Debug\05.SlicingFileInteractive.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\05.SlicingFileInteractive\obj\Debug\05.SlicingFileInteractive.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\05.SlicingFileInteractive\obj\Debug\05.SlicingFileInteractive.pdb

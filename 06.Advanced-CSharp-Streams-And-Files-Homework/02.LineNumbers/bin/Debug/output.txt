@@ -1,0 +1,30 @@
+Line  0  using System;
+Line  1  using System.Collections.Generic;
+Line  2  using System.Linq;
+Line  3  using System.Text;
+Line  4  using System.Threading.Tasks;
+Line  5  using System.IO;
+Line  6  
+Line  7  class OddLines
+Line  8  {
+Line  9      static void Main()
+Line 10      {
+Line 11          using (StreamReader reader = new StreamReader("file.txt", System.Text.Encoding.UTF8))
+Line 12          {
+Line 13              int lineNumber = 0;
+Line 14              while (true)
+Line 15              {
+Line 16                  string line = reader.ReadLine();
+Line 17                  if (line == null)
+Line 18                  {
+Line 19                      break;
+Line 20                  }
+Line 21                  if (lineNumber % 2 == 1)
+Line 22                  {
+Line 23                      Console.WriteLine(line);
+Line 24                  }
+Line 25                  lineNumber++;
+Line 26              }
+Line 27          }
+Line 28      }
+Line 29  }

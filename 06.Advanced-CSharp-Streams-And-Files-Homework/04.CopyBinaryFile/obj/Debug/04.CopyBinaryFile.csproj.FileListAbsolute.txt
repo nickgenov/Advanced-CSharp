@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

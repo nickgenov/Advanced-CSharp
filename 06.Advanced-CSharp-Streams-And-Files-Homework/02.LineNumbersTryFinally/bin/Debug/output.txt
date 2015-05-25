@@ -1,0 +1,51 @@
+Line  0  using System;
+Line  1  using System.Collections.Generic;
+Line  2  using System.Linq;
+Line  3  using System.Text;
+Line  4  using System.Threading.Tasks;
+Line  5  using System.IO;
+Line  6  
+Line  7  
+Line  8  class LineNumbers
+Line  9  {
+Line 10      static void Main()
+Line 11      {
+Line 12          //write data to the new file
+Line 13          StreamReader reader = new StreamReader("input.txt");
+Line 14          StreamWriter writer = new StreamWriter("output.txt");
+Line 15  
+Line 16          int lineNumber = 0;
+Line 17          using (reader)
+Line 18          {
+Line 19              using (writer)
+Line 20              {
+Line 21                  while (true)
+Line 22                  {
+Line 23                      string line = reader.ReadLine();
+Line 24                      if (line == null)
+Line 25                      {
+Line 26                          break;
+Line 27                      }
+Line 28                      string numberedLine = string.Format("Line {0,2}  {1}", lineNumber, line);
+Line 29  
+Line 30                      writer.WriteLine(numberedLine);
+Line 31                      lineNumber++;
+Line 32                  }
+Line 33              }
+Line 34          }
+Line 35          //print the new file contents on the console
+Line 36          StreamReader readerOutput = new StreamReader("output.txt");
+Line 37          using (readerOutput)
+Line 38          {
+Line 39              while (true)
+Line 40              {
+Line 41                  string line = readerOutput.ReadLine();
+Line 42                  if (line == null)
+Line 43                  {
+Line 44                      break;
+Line 45                  }
+Line 46                  Console.WriteLine(line);
+Line 47              }
+Line 48          }
+Line 49      }
+Line 50  }

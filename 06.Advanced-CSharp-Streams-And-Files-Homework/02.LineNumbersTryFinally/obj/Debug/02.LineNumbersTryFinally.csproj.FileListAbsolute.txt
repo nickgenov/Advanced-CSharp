@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\02.LineNumbersTryFinally\bin\Debug\02.LineNumbersTryFinally.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\02.LineNumbersTryFinally\bin\Debug\02.LineNumbersTryFinally.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\02.LineNumbersTryFinally\bin\Debug\02.LineNumbersTryFinally.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\02.LineNumbersTryFinally\obj\Debug\02.LineNumbersTryFinally.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\02.LineNumbersTryFinally\obj\Debug\02.LineNumbersTryFinally.pdb
