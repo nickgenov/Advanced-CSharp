@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\03.WordCount\bin\Debug\03.WordCount.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\03.WordCount\bin\Debug\03.WordCount.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\03.WordCount\bin\Debug\03.WordCount.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\03.WordCount\obj\Debug\03.WordCount.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\03.WordCount\obj\Debug\03.WordCount.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\03.WordCount\obj\Debug\03.WordCount.csprojResolveAssemblyReference.cache

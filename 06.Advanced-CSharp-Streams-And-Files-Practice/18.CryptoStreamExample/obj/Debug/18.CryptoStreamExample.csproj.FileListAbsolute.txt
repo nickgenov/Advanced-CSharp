@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\18.CryptoStreamExample\bin\Debug\18.CryptoStreamExample.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\18.CryptoStreamExample\bin\Debug\18.CryptoStreamExample.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\18.CryptoStreamExample\bin\Debug\18.CryptoStreamExample.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\18.CryptoStreamExample\obj\Debug\18.CryptoStreamExample.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\18.CryptoStreamExample\obj\Debug\18.CryptoStreamExample.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\18.CryptoStreamExample\obj\Debug\18.CryptoStreamExample.pdb

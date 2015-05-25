@@ -3,3 +3,6 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\14.StreamWriterExample\bin\Debug\14.StreamWriterExample.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\14.StreamWriterExample\obj\Debug\14.StreamWriterExample.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\14.StreamWriterExample\obj\Debug\14.StreamWriterExample.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\14.StreamWriterExample\bin\Debug\14.StreamWriterExample.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\14.StreamWriterExample\obj\Debug\14.StreamWriterExample.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\14.StreamWriterExample\obj\Debug\14.StreamWriterExample.pdb

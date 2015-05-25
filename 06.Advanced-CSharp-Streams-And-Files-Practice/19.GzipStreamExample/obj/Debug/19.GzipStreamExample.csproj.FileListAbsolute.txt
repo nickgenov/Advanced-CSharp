@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\19.GzipStreamExample\bin\Debug\19.GzipStreamExample.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\19.GzipStreamExample\bin\Debug\19.GzipStreamExample.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\19.GzipStreamExample\bin\Debug\19.GzipStreamExample.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\19.GzipStreamExample\obj\Debug\19.GzipStreamExample.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\19.GzipStreamExample\obj\Debug\19.GzipStreamExample.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\19.GzipStreamExample\obj\Debug\19.GzipStreamExample.pdb

@@ -1,0 +1,1 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Practice\20.WorkingWithFiles\bin\Debug\20.WorkingWithFiles.exe.config
