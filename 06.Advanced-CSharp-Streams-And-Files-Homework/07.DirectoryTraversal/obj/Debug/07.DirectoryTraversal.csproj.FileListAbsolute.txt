@@ -3,3 +3,4 @@ C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-C
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\07.DirectoryTraversal\bin\Debug\07.DirectoryTraversal.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\06.Advanced-CSharp-Streams-And-Files-Homework\07.DirectoryTraversal\obj\Debug\07.DirectoryTraversal.csprojResolveAssemblyReference.cache
