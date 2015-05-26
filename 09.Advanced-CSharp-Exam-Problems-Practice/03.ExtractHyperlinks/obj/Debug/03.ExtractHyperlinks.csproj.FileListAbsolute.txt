@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\03.ExtractHyperlinks\bin\Debug\03.ExtractHyperlinks.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\03.ExtractHyperlinks\bin\Debug\03.ExtractHyperlinks.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\03.ExtractHyperlinks\bin\Debug\03.ExtractHyperlinks.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\03.ExtractHyperlinks\obj\Debug\03.ExtractHyperlinks.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\03.ExtractHyperlinks\obj\Debug\03.ExtractHyperlinks.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\03.ExtractHyperlinks\obj\Debug\03.ExtractHyperlinks.csprojResolveAssemblyReference.cache

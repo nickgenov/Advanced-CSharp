@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\01.PlusRemove\bin\Debug\01.PlusRemove.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\01.PlusRemove\bin\Debug\01.PlusRemove.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\01.PlusRemove\bin\Debug\01.PlusRemove.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\01.PlusRemove\obj\Debug\01.PlusRemove.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\01.PlusRemove\obj\Debug\01.PlusRemove.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\01.PlusRemove\obj\Debug\01.PlusRemove.pdb

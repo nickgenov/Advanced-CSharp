@@ -1,0 +1,6 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\02.StringMatrixRotation\bin\Debug\02.StringMatrixRotation.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\02.StringMatrixRotation\bin\Debug\02.StringMatrixRotation.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\02.StringMatrixRotation\bin\Debug\02.StringMatrixRotation.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\02.StringMatrixRotation\obj\Debug\02.StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\02.StringMatrixRotation\obj\Debug\02.StringMatrixRotation.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\02.StringMatrixRotation\obj\Debug\02.StringMatrixRotation.pdb
