@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.VladkosNotebook", "07.Vl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.XRemoval", "06.XRemoval\06.XRemoval.csproj", "{F6BF11C1-4CC2-4DF2-9D84-BD33B680D5AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.PINValidation", "18.PINValidation\18.PINValidation.csproj", "{9260104C-050C-40B9-A31D-7CC72C4D9E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.BiggestTableRow", "17.BiggestTableRow\17.BiggestTableRow.csproj", "{ED88018D-D22A-468A-BC8A-FED97C77EB53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F6BF11C1-4CC2-4DF2-9D84-BD33B680D5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BF11C1-4CC2-4DF2-9D84-BD33B680D5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BF11C1-4CC2-4DF2-9D84-BD33B680D5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9260104C-050C-40B9-A31D-7CC72C4D9E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9260104C-050C-40B9-A31D-7CC72C4D9E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9260104C-050C-40B9-A31D-7CC72C4D9E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9260104C-050C-40B9-A31D-7CC72C4D9E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED88018D-D22A-468A-BC8A-FED97C77EB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED88018D-D22A-468A-BC8A-FED97C77EB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED88018D-D22A-468A-BC8A-FED97C77EB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED88018D-D22A-468A-BC8A-FED97C77EB53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
