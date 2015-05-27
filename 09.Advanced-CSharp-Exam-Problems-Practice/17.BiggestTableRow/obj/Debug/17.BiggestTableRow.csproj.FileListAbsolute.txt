@@ -3,3 +3,4 @@ C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-C
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\17.BiggestTableRow\bin\Debug\17.BiggestTableRow.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\17.BiggestTableRow\obj\Debug\17.BiggestTableRow.csprojResolveAssemblyReference.cache
