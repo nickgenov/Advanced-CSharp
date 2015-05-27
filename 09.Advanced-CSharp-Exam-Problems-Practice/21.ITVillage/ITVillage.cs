@@ -49,9 +49,9 @@ class ITVillage
                     col--;
                 }
                 direction = GetDirection(row, col);
+                string field = board[row, col];
                 if (pos == dice)
                 {
-                    string field = board[row, col];
                     if (field == "P")
                     {
                         coins -= 5;
@@ -60,6 +60,10 @@ class ITVillage
                     {
                         coins -= 100;
                         innsBought++;
+                        if (innsBought == innsCount)
+                        {
+                            wonGame = true;
+                        }
                     }
                     else if (field == "I" && coins < 100)
                     {
@@ -82,6 +86,10 @@ class ITVillage
                         wonGame = true;
                     }
                 }
+                if (innsBought > 0 && field != "S" && diceIndex + 1 < diceNumbers.Length)
+                {
+                    coins += innsBought * 20;
+                }
             }
             diceIndex++;
             if (wonGame == true || coins < 0 || diceIndex >= diceNumbers.Length)
@@ -91,13 +99,13 @@ class ITVillage
         }
 
         //end result
-        if (wonGame)
-        {
-            Console.WriteLine("<p>You won! Nakov's force was with you!<p>");
-        }
-        else if (innsBought == innsCount)
+        if (innsBought == innsCount)
         {
             Console.WriteLine(string.Format("<p>You won! You own the village now! You have {0} coins!<p>", coins));
+        }
+        else if (wonGame)
+        {
+            Console.WriteLine("<p>You won! Nakov's force was with you!<p>");
         }
         else if (coins < 0)
         {

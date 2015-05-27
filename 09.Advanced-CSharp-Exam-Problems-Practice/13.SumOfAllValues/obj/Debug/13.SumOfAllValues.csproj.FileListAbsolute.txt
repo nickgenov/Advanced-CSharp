@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.pdb
