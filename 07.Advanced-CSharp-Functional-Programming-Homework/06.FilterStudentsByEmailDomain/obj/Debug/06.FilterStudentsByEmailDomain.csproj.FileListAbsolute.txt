@@ -3,3 +3,8 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\obj\Debug\06.FilterStudentsByEmailDomain.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\06.FilterStudentsByEmailDomain\bin\Debug\06.FilterStudentsByEmailDomain.pdb
