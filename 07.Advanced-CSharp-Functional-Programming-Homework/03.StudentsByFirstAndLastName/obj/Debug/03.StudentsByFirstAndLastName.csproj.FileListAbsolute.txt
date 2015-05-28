@@ -4,3 +4,9 @@ C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CShar
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\bin\Debug\03.StudentsByFirstAndLastName.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\03.StudentsByFirstAndLastName\obj\Debug\03.StudentsByFirstAndLastName.csprojResolveAssemblyReference.cache

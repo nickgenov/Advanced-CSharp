@@ -1,5 +1,5 @@
-C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\bin\Debug\05.SortStudentsLINQ.exe.config
-C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\bin\Debug\05.SortStudentsLINQ.exe
-C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\bin\Debug\05.SortStudentsLINQ.pdb
-C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\obj\Debug\05.SortStudentsLINQ.exe
-C:\Users\Nick\Desktop\Advanced C#\GitHomeworks\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\obj\Debug\05.SortStudentsLINQ.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\bin\Debug\05.SortStudentsLINQ.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\bin\Debug\05.SortStudentsLINQ.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\bin\Debug\05.SortStudentsLINQ.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\obj\Debug\05.SortStudentsLINQ.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\07.Advanced-CSharp-Functional-Programming-Homework\05.SortStudentsLINQ\obj\Debug\05.SortStudentsLINQ.pdb
