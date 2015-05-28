@@ -9,9 +9,16 @@ class QueryMess
 {
     static void Main()
     {
+
+
         while (true)
         {
             string input = Console.ReadLine();
+            if (input == "END")
+            {
+                break;
+            }
+
         }
     }
 }
