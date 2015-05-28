@@ -10,6 +10,8 @@ class ExtractHyperlinks
 {
     static void Main()
     {
+        const string pattern = @"(<\s*a\s*)([^<>]*\s+)?href\s*=\s*(?:(?:'(?<match1>[^'>]+)')|(?:""(?<match2>[^""]+)"")|(?<match3>[^\s>]+))[^>]*>";
+
         StringBuilder buildHTML = new StringBuilder();
         while (true)
         {
@@ -21,20 +23,30 @@ class ExtractHyperlinks
             buildHTML.Append(input);
         }
         string html = buildHTML.ToString();
-
-        string linkPattern = @"<a.+?<\/a>";
-        Regex linkRegex = new Regex(linkPattern);
-
-        List<string> links = new List<string>();
-        MatchCollection linkMatches = linkRegex.Matches(html);
-        foreach (var link in linkMatches)
+        
+        MatchCollection matches = Regex.Matches(html, pattern);
+        foreach (Match match in matches)
         {
-            links.Add(link.ToString());
-        }
+            string match1 = match.Groups["match1"].Value;
+            string match2 = match.Groups["match2"].Value;
+            string match3 = match.Groups["match3"].Value;
 
-        foreach (var link in links)
-        {
-            Console.WriteLine(link);
+            if (match1 != string.Empty)
+            {
+                Console.WriteLine(match1);
+            }
+            else if (match2 != string.Empty)
+            {
+                Console.WriteLine(match2);
+            }
+            else if (match3 != string.Empty)
+            {
+                Console.WriteLine(match3);
+            }
+            else
+            {
+                Console.WriteLine("<p>This text has no links</p>");
+            }
         }
     }
 }
