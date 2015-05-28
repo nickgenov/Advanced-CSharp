@@ -3,4 +3,3 @@ C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-C
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\06.XRemoval\bin\Debug\06.XRemoval.pdb
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\06.XRemoval\obj\Debug\06.XRemoval.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\06.XRemoval\obj\Debug\06.XRemoval.pdb
-C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\06.XRemoval\obj\Debug\06.XRemoval.csprojResolveAssemblyReference.cache

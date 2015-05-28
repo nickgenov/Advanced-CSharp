@@ -9,6 +9,6 @@ class ChatLogger
 {
     static void Main()
     {
-
+        Console.WriteLine();
     }
 }

@@ -1,6 +1,5 @@
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\21.ITVillage\bin\Debug\21.ITVillage.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\21.ITVillage\bin\Debug\21.ITVillage.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\21.ITVillage\bin\Debug\21.ITVillage.pdb
-C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\21.ITVillage\obj\Debug\21.ITVillage.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\21.ITVillage\obj\Debug\21.ITVillage.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\21.ITVillage\obj\Debug\21.ITVillage.pdb

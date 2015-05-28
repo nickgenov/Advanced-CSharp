@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\19.ChatLogger\bin\Debug\19.ChatLogger.exe.config
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\19.ChatLogger\bin\Debug\19.ChatLogger.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\19.ChatLogger\bin\Debug\19.ChatLogger.pdb
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\19.ChatLogger\obj\Debug\19.ChatLogger.exe
+C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\19.ChatLogger\obj\Debug\19.ChatLogger.pdb

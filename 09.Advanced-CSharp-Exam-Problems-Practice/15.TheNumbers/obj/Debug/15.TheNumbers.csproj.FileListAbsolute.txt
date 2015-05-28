@@ -1,6 +1,5 @@
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\15.TheNumbers\bin\Debug\15.TheNumbers.exe.config
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\15.TheNumbers\bin\Debug\15.TheNumbers.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\15.TheNumbers\bin\Debug\15.TheNumbers.pdb
-C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\15.TheNumbers\obj\Debug\15.TheNumbers.csprojResolveAssemblyReference.cache
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\15.TheNumbers\obj\Debug\15.TheNumbers.exe
 C:\Users\Nick\Desktop\Advanced C#\GitHubRepository\Advanced-CSharp\09.Advanced-CSharp-Exam-Problems-Practice\15.TheNumbers\obj\Debug\15.TheNumbers.pdb
