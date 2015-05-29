@@ -29,6 +29,7 @@ class ITVillage
         //game loop
         while (true)
         {
+            string field = string.Empty;
             int dice = diceNumbers[diceIndex];
             for (int pos = 1; pos <= dice; pos++)
             {
@@ -49,7 +50,7 @@ class ITVillage
                     col--;
                 }
                 direction = GetDirection(row, col);
-                string field = board[row, col];
+                field = board[row, col];
                 if (pos == dice)
                 {
                     if (field == "P")
@@ -86,15 +87,15 @@ class ITVillage
                         wonGame = true;
                     }
                 }
-                if (innsBought > 0 && field != "S" && diceIndex + 1 < diceNumbers.Length)
-                {
-                    coins += innsBought * 20;
-                }
             }
             diceIndex++;
             if (wonGame == true || coins < 0 || diceIndex >= diceNumbers.Length)
             {
                 break;
+            }
+            else if (innsBought > 0 && field != "S" && diceIndex + 1 < diceNumbers.Length)
+            {
+                coins += innsBought * 20;
             }
         }
 
@@ -147,7 +148,7 @@ class ITVillage
         string direction = string.Empty;
         if (row == 0 && col < 3)
         {
-            direction = "right"; 
+            direction = "right";
         }
         else if (col == 3 && row < 3)
         {
